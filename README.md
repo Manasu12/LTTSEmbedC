@@ -1,4 +1,4 @@
-# embC-261625
+# LTTSEmbedC
 
 ## This repositry was made in the sole purpose of submission of out embedded C activities.
 
